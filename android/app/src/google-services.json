@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852449768304",
+    "project_id": "diverse-recipes",
+    "storage_bucket": "diverse-recipes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852449768304:android:195d77648545bc6403d5b5",
+        "android_client_info": {
+          "package_name": "com.example.diverse_cuisine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852449768304-4cn08u9bkkt61u9hlj9bt9h77qjbdi2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8yMxGGV9wk76sOEZnryOpEeoZTHm467k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852449768304-4cn08u9bkkt61u9hlj9bt9h77qjbdi2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
