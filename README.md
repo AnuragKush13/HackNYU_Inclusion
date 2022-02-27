@@ -1,16 +1,27 @@
-# diverse_cuisine
+# Diverse Cuisine
 
-A new Flutter project.
+## THE IDEA
+People of different cultural backgrounds coming together and learning about each other through their food.
 
-## Getting Started
+## FEATURES
+ 1. Add recipes
+ 2. Explore other recipes
+ 3. Backed with firebase
+ 4. Fluent UI design
 
-This project is a starting point for a Flutter application.
+## WHAT'S NEXT
+ 1. Google authentcation
+ 2. Personal dashboard
+ 3. Update and delete functionality
+ 4. Rating feature
 
-A few resources to get you started if this is your first Flutter project:
+## TECHNOLOGIES USED
+ 1. Figma : For UI designing
+ 2. VS code : For coding purpose (Frontend and backend linking)
+ 3. Android studio : For coding
+ 4. Flutter : A framework for the application
+ 5. Dart Language : Used in flutter framework
+ 6. Firebase : As a backend for the application
+ 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
