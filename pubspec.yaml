@@ -30,6 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   cloud_firestore: ^2.2.0
   firebase_core:
+  google_fonts:
 
 dev_dependencies:
   flutter_test:
@@ -64,9 +65,9 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   # fonts:
-  #   - family: Schyler
+  #   - family: Pecita
   #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Pecita.otf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
