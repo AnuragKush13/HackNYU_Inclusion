@@ -39,7 +39,7 @@ class _Recipes_listState extends State<Recipes_list> {
             color: Colors.black,
           ),
           title: Text(
-            "Recepies",
+            "Recipes",
             style: GoogleFonts.alata(
                 fontSize: 25, color: Colors.black, fontWeight: FontWeight.bold),
           ),
@@ -150,7 +150,7 @@ class _Recipes_listState extends State<Recipes_list> {
                   } else
                     return Center(
                       child: Text(
-                        "Loading recipies",
+                        "Loading recipes",
                         style: GoogleFonts.alata(
                             fontSize: 20,
                             color: Colors.black,

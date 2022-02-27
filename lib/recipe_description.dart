@@ -86,7 +86,7 @@ class _DescriptionState extends State<Description> {
             Padding(
               padding: const EdgeInsets.all(5),
               child: Text(
-                "Receipe steps",
+                "Recipe steps",
                 style: GoogleFonts.alata(
                     color: Colors.black,
                     fontWeight: FontWeight.bold,

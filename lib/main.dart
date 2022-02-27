@@ -77,7 +77,7 @@ class _Home_PageState extends State<Home_Page> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Text(
-              "Different culture, Different food!",
+              "Explore tradition through taste!",
               style: GoogleFonts.alata(
                   fontSize: 23,
                   color: Colors.black,
@@ -87,7 +87,7 @@ class _Home_PageState extends State<Home_Page> {
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 15, vertical: 20),
             child: Text(
-              " Diversity in food then, can mean a few different things: For one, the representation of all cuisines and culture. Or, the array of nutrients needed for a full, well-rounded diet. Or, the variety of crops grown on a farm.",
+              "People from different cultural backgrounds eat different foods.Food is a window into our history. It shows the movement of people and food across time and place.\nThe more we honor cultural differences in eating, the healthier we will be.– Michael Pollan",
               textAlign: TextAlign.center,
               style: GoogleFonts.dancingScript(fontSize: 20, height: 1.5),
             ),

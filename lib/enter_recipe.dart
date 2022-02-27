@@ -58,7 +58,7 @@ class _Enter_recipeState extends State<Enter_recipe> {
           color: Colors.black,
         ),
         title: Text(
-          "Your recepie",
+          "Your recipe",
           style: GoogleFonts.alata(
               fontSize: 25, color: Colors.black, fontWeight: FontWeight.bold),
         ),
